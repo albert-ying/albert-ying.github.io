@@ -18,18 +18,33 @@ about:
       href: https://github.com/samanthacsik
     - icon: envelope
       text: Email
-      href: mailto:scsik@ucsb.edu
+      href: mailto:kying@g.harvard.edu
 ---
 
 <!-- ::: {.small-text} -->
-Hi there! I'm Sam (and my last name is pronounced "chick"). Professionally, I love teaching data science skills, learning and implementing inclusive pedagogical approaches, and the communities that supports both of those things. Outside of work, I'm an avid hiker, novice (but passionate) meal-maker, and I really love the color green. Poke around my website to learn more!
+<h1><b> <img src="https://media.giphy.com/media/5A4gz2QktOjs3nYq1U/giphy.gif", width="80px",/> 𝙷𝚒! 𝙸'𝚖 𝙺𝚎𝚓𝚞𝚗 (𝙰𝚕𝚋𝚎𝚛𝚝) 𝚈𝚒𝚗𝚐 -- 应可钧 </b></h1>
+
+<div align="center",>
+  <br>
+  <img src="https://media.giphy.com/media/GlFkO4k5r1bdQVxKTw/giphy.gif", width="180",/> 
+  <img src="https://media.giphy.com/media/OitByEKy91r98Glzar/giphy.gif", width="180",/> 
+  <img src="https://media.giphy.com/media/jX1LDiYwxAAYohQ3qa/giphy.gif", width="180"/>
+</div>
+
+
+- I'm a PhD candidate at [Harvard Medical School](https://hms.harvard.edu/), [Vadim Gladyshev lab](https://gladyshevlab.bwh.harvard.edu/)
+
+- My research interests include aging and omics, with a focus on the cause of aging, epigenetics, metabolism, and multi-omics.
+
+- My recent work focuses on [the causal role of DNA methylation in aging and age-related diseases, and I built the first causal biomarker of
+aging](https://t.co/yAWcTiPCaV)
+
+- I also built the [ClockBase](https://clockbase.org) ([preprint](https://www.biorxiv.org/content/10.1101/2023.02.28.530532v1)), which provides a
+resource for the scientific community to quantify and explore biological ages of more than 300,000 samples on GEO, thus facilitating discovery of
+new longevity interventions and age-accelerating conditions.
+
+- I'm also interested in **machine learning** and **protein design**.
 <!-- ::: -->
-
-<!-- ### hi there!     -->
-
-<!-- I'm Sam (and my last name is pronounced "chick"). I'm the Data Training Coordinator at the [National Center for Ecological Analysis & Synthesis](https://www.nceas.ucsb.edu/) (NCEAS) located at UC Santa Barbara, where I'm working to develop and teach data science training curricula for the [Master of Environmental Data Science](https://bren.ucsb.edu/masters-programs/master-environmental-data-science) (MEDS) program and other data science initiatives across NCEAS and UCSB. I am also a co-organizer of [R-Ladies Santa Barbara](https://www.meetup.com/rladies-santa-barbara/), a local data science group which works to promote gender diversity in the R community. In my spare time, you'll typically find me hiking with my pup or cooking family dinners with friends. -->
-
-<!-- ----------------------------------------------------------------------------------------------------------------------------------- -->
 
 <!-- ### education -->
 
