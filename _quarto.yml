@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  site-url: https://samanthacsik.github.io/
+  site-url: https://albert-ying.github.io/
   # cookie-consent: 
   #   type: express 
   #   style: headline
