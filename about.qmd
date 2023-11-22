@@ -3,7 +3,7 @@ title: "about"
 subtitle: "~ a bit more about me both inside and outside of my job ~"
 title-block-banner: true
 ---
-
+<!-- 
 ## {{< fa chalkboard-teacher title="A teacher at a chalkboard" >}} the profession
 
 I'm the Data Training Coordinator at the [National Center for Ecological Analysis & Synthesis](https://www.nceas.ucsb.edu/) (NCEAS) located at UC Santa Barbara, where I'm working to develop and teach data science training curricula for the [Master of Environmental Data Science](https://bren.ucsb.edu/masters-programs/master-environmental-data-science) (MEDS) program and other data science initiatives across NCEAS and UCSB. I am also a co-organizer of [R-Ladies Santa Barbara](https://www.meetup.com/rladies-santa-barbara/), a local data science group which works to promote gender diversity in the R community.
@@ -72,4 +72,4 @@ The back of a handmade birthday card by yours truly (aka 'The Csik Press'). Than
 #| fig-height: 3
 #| fig-alt: "The name, 'sam csik' in white lettering. Above 'csik' sits a horizontal dark green bar. Above the green bar is a white chick."
 knitr::include_graphics("images/logos/logo-light.png")
-```
+``` -->
